@@ -1,4 +1,4 @@
-module github.com/kei-emura/go-http-server
+module github.com/keyem4251/go-http-server
 
 go 1.13
 
